@@ -4,8 +4,3 @@ miles = kilometers * 0.621371
 rounded_miles = round(miles, 2)
 print("So you ran " + f"{kilometers}" + " kilometers today.")
 print("That converts to about " + f"{rounded_miles}" + " miles!")
-
-# # Random input example
-# # print("Input your age")
-# # age = input()
-# # print("You are " + age + " years old!")
